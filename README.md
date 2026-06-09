@@ -1,7 +1,7 @@
 # ¡Hola! ✍️ Soy Jenssy Sterling 💕
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&color=ff6b9d&center=true" alt="Jenssy Sterling">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&color=ff6b9d&center=true](https://avatars.githubusercontent.com/u/226166285?v=4)" alt="Jenssy Sterling">
 </p>
 
 <p align="center">
