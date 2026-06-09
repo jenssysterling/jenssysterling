@@ -17,8 +17,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=ff6b9d&center=true&lines=Escritora+de+historias+de+amor;Amante+de+los+BL+Manhwas;💭+Historias+ nacidas+de+escenas+y+emociones" alt="Typing SVG">
 </p>
 
-- ✍️ **Escritora** de romance en Wattpad
-- 📚 **Lectora** de Manhwas/Manhuas BL
+- ✍️ **Escritora** en Wattpad
+- 📚 **Lectora** de Manhwas/Manhuas BL y otros
 - 💕 Historias nacidas de **escenas, frases y emociones**
 
 ---
@@ -39,7 +39,7 @@
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenssysterling&show_icons=true&theme=light&hide_border=true&bg_color=fff5f7&title_color=ff6b9d&text_color=666666" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenssysterling" alt="Stats">
 </p>
 
 <p align="center">
